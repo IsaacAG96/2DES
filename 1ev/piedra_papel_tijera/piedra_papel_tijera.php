@@ -3,7 +3,7 @@
 define('PIEDRA1',  "&#x1F91C;"); //0
 define('PIEDRA2',  "&#x1F91B;"); //0
 define('TIJERAS',  "&#x1F596;"); //1
-define('PAPEL',    "&#x1F91A;"); //2
+define('PAPEL',    "&#x1F91A;"); //233
 
 $jugador1 = random_int(0, 2);
 $jugador2 = random_int(0, 2);
